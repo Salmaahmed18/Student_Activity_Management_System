@@ -47,9 +47,10 @@
 
                         <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                             <div class="custom-block bg-white shadow-lg">
-                                <a href="topics-detail.html">
+                                <a href="StudentClubRegisteration.php">
                                     <div class="d-flex">
                                         <div>
+                                        
                                             <h5 class="mb-2">Clubs</h5>
 
                                             <p class="mb-0">Join the experience! Discover clubs that match your passions, make new friends, and unlock opportunities beyond the classroom. With Campus Connect, finding and signing up for activities is quick and easy—your next adventure is just one click away. Don’t miss out—get involved today!</p>
@@ -65,9 +66,10 @@
 
                         <div class="col-lg-6 col-12">
                             <div class="custom-block custom-block-overlay">
+                            <a href="StudentOrganizationRegisteration.php">
                                 <div class="d-flex flex-column h-100">
                                     <img src="images/businesswoman-using-tablet-analysis.jpg" class="custom-block-image img-fluid" alt="">
-
+                        
                                     <div class="custom-block-overlay-text d-flex">
                                         <div>
                                             <h5 class="text-white mb-2">Organizations</h5>
@@ -82,7 +84,9 @@
 
                                     <div class="section-overlay"></div>
                                 </div>
+                            
                             </div>
+</a>
                         </div>
 
                     </div>
